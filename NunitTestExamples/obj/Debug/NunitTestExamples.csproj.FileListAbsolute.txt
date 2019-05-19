@@ -1,0 +1,9 @@
+C:\Users\baris\source\repos\NunitTestExamples\NunitTestExamples\bin\Debug\NunitTestExamples.dll
+C:\Users\baris\source\repos\NunitTestExamples\NunitTestExamples\bin\Debug\NunitTestExamples.pdb
+C:\Users\baris\source\repos\NunitTestExamples\NunitTestExamples\bin\Debug\nunit.framework.dll
+C:\Users\baris\source\repos\NunitTestExamples\NunitTestExamples\bin\Debug\nunit.framework.pdb
+C:\Users\baris\source\repos\NunitTestExamples\NunitTestExamples\bin\Debug\nunit.framework.xml
+C:\Users\baris\source\repos\NunitTestExamples\NunitTestExamples\obj\Debug\NunitTestExamples.csproj.CoreCompileInputs.cache
+C:\Users\baris\source\repos\NunitTestExamples\NunitTestExamples\obj\Debug\NunitTestExamples.csproj.CopyComplete
+C:\Users\baris\source\repos\NunitTestExamples\NunitTestExamples\obj\Debug\NunitTestExamples.dll
+C:\Users\baris\source\repos\NunitTestExamples\NunitTestExamples\obj\Debug\NunitTestExamples.pdb
